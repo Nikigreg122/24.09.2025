@@ -1,0 +1,49 @@
+
+#goradlugi{
+    width: 1900px;
+    height: 150px;
+    background-color: aqua;
+    margin-top: auto;
+}#pojemnikk{
+    width: 1280px;
+    height: 600px;
+    background-color: rgb(214, 198, 198);
+    margin-left: 280px;
+}
+#doldlugi{
+    width: 1900px;
+    height: 150px;
+    background-color: rgb(94, 239, 255);
+    margin-bottom: auto;
+}
+#imieinaz{
+    margin-left: 780px;
+    font-size: 40px;
+}
+#lorem{
+   margin-left: 30px; 
+   float: left;
+}
+#zdjecie1{
+    margin-left: 800px;
+    width: 400px;
+    height: 264px;
+    margin-top: -50px;
+    margin-right: 70px;
+    float: right;
+}
+#fv4005{
+    margin-left: 850px;
+    width: 105px;
+    height: 70px;
+    margin-top: 20px;
+}
+#Boeing747{
+    width: 105px;
+    height: 70px;
+    margin-left: 80px;
+}
+#copyright{
+    margin-left: 400px;
+    font-size: 40px
+}
